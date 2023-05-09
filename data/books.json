@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nombre":"Bryam Trujillo",
+        "telefono":"5881-7940",
+        "descripcion":"venta al de 3 patalones",
+        "monto":2500,
+        "fecha": "05/05/2023",
+        "saldo":500,
+        "estado":true,
+        "abonos":[
+                    {
+                        "id":1,
+                        "fechaAbono": "05/05/2023",
+                        "monto":500,
+                        "concepto":"abono del pantalon"
+                    }
+                ]
+    }
+]
